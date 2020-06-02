@@ -1,0 +1,13 @@
+{
+    "name": "jungle/composer-test-with-security-advisories",
+    "authors": [
+        {
+            "name": "Qiangjun Ran",
+            "email": "ranqiangjun@gmail.com"
+        }
+    ],
+    "require": {
+        "roave/security-advisories": "dev-master",
+        "symfony/phpunit-bridge": "^3.4.3"
+    }
+}
